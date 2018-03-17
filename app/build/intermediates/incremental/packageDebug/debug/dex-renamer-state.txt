@@ -1,0 +1,4 @@
+#Sat Mar 17 10:50:10 IST 2018
+base.0=E\:\\Workspace\\LearningGitHub\\Android\\AndroidXMLparsing\\EspoirsoftInternalStorageDemo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
